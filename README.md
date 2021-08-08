@@ -15,9 +15,6 @@ The first one was using an REST API. The ChatBot API was a rest API from rapidap
 
 > There's no way a browser will let you clear its cache. It would be a huge security issue if that were possible. This could be very easily abused - the minute a browser supports such a "feature" will be the minute I uninstall it from my computer.
 
-video link: https://www.youtube.com/watch?v=zP15ktYRMp0
-
-
 yeah its pretty sad.
 
 ## Accomplishments that I am proud of
@@ -32,4 +29,6 @@ I am very proud of how everything works together. For example, you sending a mes
 
 ## What's next for AI Chat Bot
 There could be anything, even an an app or something on an iPhone using Swift, for maybe on Android using Kotlin. 
+
+video link: https://www.youtube.com/watch?v=zP15ktYRMp0
 
