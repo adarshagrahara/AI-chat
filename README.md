@@ -15,9 +15,15 @@ The first one was using an REST API. The ChatBot API was a rest API from rapidap
 yeah its pretty sad.
 
 ## Accomplishments that I am proud of
-
+I am very proud of how everything works together. For example, you sending a message, makes it get stored in a database and lets it have a response. Also I am proud that I got the web-speech-api to work and it respons ewith another voice. I am also proud that I created a Database and I also query data from it.
 
 ## What I learned
+1. I learned so much. 
+2. I learned more about jsp and servlets, more about API's, REST API's, Google API's, and Library API's. 
+3. I learned how to create and query data from a database. 
+4. I learned how the sql language works along with JDBC.
+5. I learned how to pass data from Backend to front end.
 
 ## What's next for AI Chat Bot
+There could be anything, even an an app or something on an iPhone using Swift, for maybe on Android using Kotlin. 
 
