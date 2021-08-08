@@ -1,3 +1,6 @@
+##https://boogeyman.us/ai-chat
+This is the Home Page of my project, its just a static page but it shows all the main functionality.
+
 ## Inspiration
 My inspiration for this was back to school. Some of us haven't had a lot of social interaction or spoken to people outside your family. And instead of gaming, you could talk to a person that is well, fake.
 
