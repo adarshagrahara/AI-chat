@@ -1,4 +1,4 @@
-##https://boogeyman.us/ai-chat
+## https://boogeyman.us/ai-chat
 This is the Home Page of my project, its just a static page but it shows all the main functionality.
 
 ## Inspiration
