@@ -1,5 +1,5 @@
 *.java linguist-detectable=true
-*.scss inguist-detectable=false
+*.scss linguist-detectable=false
 public/libs/* linguist-vendored
 scot-ui/public/libs/ linguist-vendored
 docs/* linguist-documentation
